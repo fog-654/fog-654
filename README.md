@@ -39,5 +39,7 @@
 
 ### 📫 怎么联系我
 <p align="left">
-  <img src="https://img.shields.io/badge/SEU-Email-00448A?style=flat-square&logo=microsoftoutlook&logoColor=white" />   213233412@seu.edu.cn
+  <a href="mailto:213233412@seu.edu.cn">
+    <img src="https://img.shields.io/badge/Email-213233412%40seu.edu.cn-00448A?style=flat-square&logo=microsoftoutlook&logoColor=white" />
+  </a>
 </p>
