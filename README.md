@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/af00f071-e7f5-4469-8ed6-70d842b0011b
+
 # 👋 你好，我是Zhe Liu
 
 <p align="center">
