@@ -32,7 +32,7 @@
 
 ---
 
-### 👾 贡献墙 (贪吃蛇)
+### 👾 贡献墙 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[你的用户名]/[你的用户名]/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[你的用户名]/[你的用户名]/output/github-contribution-grid-snake.svg">
