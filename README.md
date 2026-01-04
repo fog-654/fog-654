@@ -25,10 +25,7 @@
 
 
 ### 📊 GitHub 战斗力看板
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[你的用户名]&show_icons=true&theme=nord&hide_border=true" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[你的用户名]&layout=compact&theme=nord&hide_border=true" />
-</p>
+
 
 ---
 
