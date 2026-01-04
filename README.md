@@ -15,25 +15,6 @@
 
 ---
 
-### 🛠️ 技能清单
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,python,js,git,vscode,linux,mysql&perline=8" />
-  </a>
-</p>
-
----
-
-
-### 📊 GitHub 战斗力看板
-
-
----
-
-### 👾 贡献墙 
-
----
-
 ### 📫 怎么联系我
 <p align="left">
   <a href="mailto:213233412@seu.edu.cn">
