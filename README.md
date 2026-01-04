@@ -23,13 +23,6 @@
 
 ---
 
-### 🎵 音乐与游戏 (我的另一面)
-| 🎸 乐器 | 🎮 游戏 |
-| :--- | :--- |
-| ![乐器图](https://img.shields.io/badge/-Guitar-orange?style=for-the-badge&logo=music) | ![游戏图](https://img.shields.io/badge/-Gaming-blue?style=for-the-badge&logo=github-actions) |
-| *“代码写累了就弹会儿琴”* | *“逻辑不通就去打把游戏”* |
-
----
 
 ### 📊 GitHub 战斗力看板
 <p align="center">
