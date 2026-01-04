@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./header.jpg" alt="Header" width="100%">
+</p>
+
 # 👋 你好，我是Zhe Liu
 
 <p align="center">
