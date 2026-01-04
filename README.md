@@ -33,15 +33,10 @@
 ---
 
 ### 👾 贡献墙 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[你的用户名]/[你的用户名]/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[你的用户名]/[你的用户名]/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[你的用户名]/[你的用户名]/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
 ### 📫 怎么联系我
 <p align="left">
-  <img src="https://img.shields.io/badge/SEU-Email-00448A?style=flat-square&logo=microsoftoutlook&logoColor=white" /> 213233412@seu.edu.cn
+  <img src="https://img.shields.io/badge/SEU-Email-00448A?style=flat-square&logo=microsoftoutlook&logoColor=white" />   213233412@seu.edu.cn
 </p>
