@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/6e17d43f-e0e2-49c8-b1fe-2002299d056b)
+https://github.com/user-attachments/assets/af00f071-e7f5-4469-8ed6-70d842b0011b
 # 👋 你好，我是Zhe Liu
 
 <p align="center">
