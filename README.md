@@ -1,8 +1,4 @@
 ![Image](https://github.com/user-attachments/assets/6e17d43f-e0e2-49c8-b1fe-2002299d056b)
-<p align="center">
-  <img src="./header.jpg" alt="Header" width="100%">
-</p>
-
 # 👋 你好，我是Zhe Liu
 
 <p align="center">
